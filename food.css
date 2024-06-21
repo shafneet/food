@@ -1,0 +1,106 @@
+.container {
+    width: 1170px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.container .top {
+    width: 1170px;
+    height: 500px;
+    background-color: #F2C12E;
+}
+
+.container .top .header {
+    width: 1170px;
+    height: 70px;
+}
+
+.container .top .header .logo {
+    width: 200px;
+    height: 70px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    float: left;
+    margin-top: 20px;
+    margin-left: 5px;
+    padding-bottom: 0;
+    margin-bottom: 100px;
+}
+
+.container .top .header .tele {
+    width: 150px;
+    height: 60px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-top: 20px;
+    margin-left: 500px;
+    margin-bottom: 200px;
+}
+
+.container .top .header .writeup {
+    width: 1200px;
+    height: 100px;
+}
+
+.container .top .header .writeup .quotes {
+    margin-top: 80px;
+    text-align: left;
+    margin-left: 180px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container .top .header .reservation {
+    align-content: center;
+}
+
+.container .top .header .enjoy {
+    margin-top: 80px;
+    text-align: center;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container .spaced-div {
+    margin-bottom: 200px;
+}
+
+.container .contentrow {
+    width: 1170px;
+    height: auto;
+}
+
+.container .contentrow .c1 {
+    width: 1170px;
+    height: 400px;
+    background-color: beige;
+}
+
+.container .contentrow .c1 .dish1 {
+    width: 390px;
+    height: 400px;
+    float: left;
+    align-items: center;
+}
+
+.container .contentrow .c1 .dish2 {
+    width: 390px;
+    height: 400px;
+    float: left;
+    align-items: center;
+}
+
+.container .contentrow .c1 .dish3 {
+    width: 390px;
+    height: 400px;
+    float: left;
+    align-items: center;
+}
+
+.container .header .events {
+    margin-top: 80px;
+    text-align: center;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
